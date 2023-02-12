@@ -18,7 +18,10 @@ h1{
 
 button{
     background:goldenrod;
-    text-color: #016f32;
+    color: #016f32;
     width: 150px;
+    border-radius: 2px;
     padding-top: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
