@@ -1,0 +1,2 @@
+let randomNummber = Math.floor(Math.random()*6)
+console.log(randomNummber)
